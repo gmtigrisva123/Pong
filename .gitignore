@@ -1,0 +1,20 @@
+# LÖVE 2D Pong Game - .gitignore
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# LÖVE 2D specific
+*.love
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
